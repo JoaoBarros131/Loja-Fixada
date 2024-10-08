@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: rgb(228, 228, 228);
+}
+.header{
+    text-align: left;
+    background-color: rgb(59, 59, 59);
+    padding: 40px;
+    font-size: 28px;
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+.footer{
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;   
+}
+.nav{
+    background-color: gray;
+    color: white;
+    padding: 15px;
+    font-size: 17px;
+    text-align: center;
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    color: whitesmoke;
+    margin: 20px;
+}
+#logo{
+    background-color: rgb(59, 59, 59);
+}
+
+.main{
+    padding: 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+}
+main section p{
+    color: rgb(59, 59, 59);
+}
+
